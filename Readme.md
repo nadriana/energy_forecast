@@ -25,4 +25,4 @@ Error: `Library not loaded: @rpath/libtbb.dylib in Prophet / Python` while insta
 
 
 ### Notebook
-For Jupyter Notebook follow this (link)[https://github.com/nadriana/energy_forecast/blob/main/notebook/Adriana%20Tapia%20-%20Granify%20assignment.ipynb]
+For Jupyter Notebook follow this [link](https://github.com/nadriana/energy_forecast/blob/main/notebook/Adriana%20Tapia%20-%20Granify%20assignment.ipynb)
