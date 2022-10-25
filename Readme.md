@@ -8,9 +8,10 @@ Python 3.8
 
 ## Quickstart
 
-1. On your terminal, run `pip install -r requirements.txt`
-2. Then run `uvicorn main:app --reload`
-3. Finally, go to http://localhost:8000/docs#
+1. Clone this repo
+2. On your terminal, run `pip install -r requirements.txt`
+3. Then run `uvicorn main:app --reload`
+4. Finally, go to http://localhost:8000/docs#
 
 ### Troubleshooting
 
