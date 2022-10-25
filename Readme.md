@@ -22,3 +22,7 @@ Error: `Library not loaded: @rpath/libtbb.dylib in Prophet / Python` while insta
   2. `virtualenv -p python3.8 venv`
   3. `source venv/bin/activate`
   4. Run the quickstart steps again
+
+
+### Notebook
+For Jupyter Notebook follow this (link)[https://github.com/nadriana/energy_forecast/blob/main/notebook/Adriana%20Tapia%20-%20Granify%20assignment.ipynb]
