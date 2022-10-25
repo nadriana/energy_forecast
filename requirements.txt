@@ -1,0 +1,11 @@
+numpy
+fastapi
+uvicorn
+pandas
+pydantic
+uvicorn
+python-multipart
+pystan==2.19.1.1
+prophet==1.0.1
+pmdarima
+statsmodels 
